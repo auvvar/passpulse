@@ -22,4 +22,4 @@ password as you type and gives instant feedback on how to improve it.
    
 ![image](https://github.com/auvvar/passpulse/blob/main/Screenshot%202026-03-17%20081328.png?raw=true)
 
-![image]([url](https://github.com/auvvar/passpulse/blob/main/Screenshot%202026-03-17%20081348.png?raw=true)
+![image](https://github.com/auvvar/passpulse/blob/main/Screenshot%202026-03-17%20081348.png?raw=true).
