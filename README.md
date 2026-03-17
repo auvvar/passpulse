@@ -20,4 +20,4 @@ password as you type and gives instant feedback on how to improve it.
 2. Start typing a password
 3. Watch the strength meter and checklist update in real time
    
-![image]()
+![image](https://github.com/auvvar/passpulse/blob/main/Screenshot%202026-03-17%20081328.png?raw=true)
